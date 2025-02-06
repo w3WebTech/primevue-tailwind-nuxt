@@ -11,9 +11,9 @@
           </IconField>
         </div>
         <template>
-    <div class="card flex justify-center">
+    <!-- <div class="card flex justify-center">
         <Select  :options="cities" showClear optionLabel="name" placeholder="Select a City" class="w-full md:w-56" />
-    </div>
+    </div> -->
 </template>
 
         <div style="display: flex; align-items: center;">
